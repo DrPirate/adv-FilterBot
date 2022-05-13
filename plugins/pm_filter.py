@@ -745,7 +745,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCmCxXwmizdO6iDtb1a7U0gw')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/FilmPiratesOfficial'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/AdBotUpdate')
+            ],[      
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
