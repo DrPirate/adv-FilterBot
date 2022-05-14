@@ -5,8 +5,7 @@ class script(object):
 
 𝖨'𝗆 𝖺 𝖥𝗋𝗂𝖾𝗇𝖽𝗅𝗒 𝗀𝗋𝗈𝗎𝗉 𝖬𝖺𝗇𝖺𝗀𝖾𝗋 Bot
 • Build Version : V2.1.0 (BETA)
-• Speciality : Movie Provider
-𝖢𝗅𝗂𝖼𝗄 Help or /help 𝗍𝗈 𝗆𝗒 𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝗌."""
+• Speciality : Movie Provider"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>➥ My name: {}
@@ -71,7 +70,7 @@ Note:- Give a user details
     DEPLOY_TXT = """ 😏 Sorry bro """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and this bot  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. Bot should have admin privillage.
@@ -184,7 +183,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/FilmPiratesOfficial)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -369,6 +368,12 @@ To Get Sticker ID
     ALIVE_TXT = """ALIVE MOD
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
+
+    CARBON_TXT = """ <b>𝙲𝙰𝚁𝙱𝙾𝙽 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+<b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝙱𝙴𝙰𝚄𝚃𝙸𝙵𝚈 𝚈𝙾𝚄𝚁 𝙲𝙾𝙳𝙴𝚂 𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴...</b>
+<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
+<b>/carbon ›› 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
+<b>𝚆𝙾𝚁𝙺𝚂 𝙾𝙽 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>"""
 
     GROUP_TXT = """𝖧𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖴𝗌𝗎𝖺𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌:"""
 
